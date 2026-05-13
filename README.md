@@ -287,10 +287,3 @@ Through this project, the following concepts were applied:
 **Srivanth Bathula**
 Roll No: **SE23UCSE166**
 Mahindra University
-
----
-
-## 📄 License
-
-This project is developed for educational purposes as part of a university course project.
-++++++++++++
